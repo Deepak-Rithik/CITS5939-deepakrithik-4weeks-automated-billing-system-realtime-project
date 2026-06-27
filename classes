@@ -1,0 +1,13 @@
+class Product:
+    id
+    name
+    price
+    stock
+class Customer:
+    name
+    phone
+class Invoice:
+    invoice_id
+    customer
+    products
+    total
