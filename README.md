@@ -40,3 +40,6 @@ tests/
 - QR Payments
 - GUI
 - Cloud Backup
+## license
+
+-mit
