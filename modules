@@ -1,0 +1,20 @@
+inventory.py
+load products
+update stock
+add product
+delete product
+billing.py
+cart
+calculate total
+GST
+Discount
+invoice.py
+generate invoice
+save invoice
+print invoice
+customer.py
+customer details
+utils.py
+clear screen
+validate input
+date formatting
